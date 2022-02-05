@@ -4,7 +4,7 @@ const assert = require('assertthat');
 
 const droddel = require('../lib/droddel');
 
-const sleep = function(ms) {
+const sleep = function (ms) {
   return new Promise((resolve) => {
     setTimeout(resolve, ms);
   });
