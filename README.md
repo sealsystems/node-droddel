@@ -1,7 +1,5 @@
 # @sealsystems/droddel
 
-[![CircleCI](https://circleci.com/gh/sealsystems/node-droddel.svg?style=svg)](https://circleci.com/gh/sealsystems/node-droddel)
-[![AppVeyor](https://ci.appveyor.com/api/projects/status/v61t9v04d4q32oo4?svg=true)](https://ci.appveyor.com/project/Plossys/node-droddel)
 
 Serialize asynchronous calls.
 
